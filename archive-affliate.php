@@ -1,6 +1,6 @@
 <?php
 /**
- * GitHub Updater
+ * plugin2
  *
  * @package   plugin
  * @author    Cody Collicott
@@ -12,7 +12,7 @@
 Plugin Name:       Example Plugin
 Plugin URI:        https://github.com/dashboard-repo/plugin2
 Description:       tester
-Version:           1.7
+Version:           1.8
 Author:            Cody Collicott
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
