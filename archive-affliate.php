@@ -2,7 +2,7 @@
 /**
  * plugin2
  *
- * @package   plugin
+ * @package   plugin2
  * @author    Batman
  * @license   GPL-2.0+
  * @link      https://github.com/dashboard-repo/plugin2
