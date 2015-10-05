@@ -12,7 +12,7 @@
 Plugin Name:       the dark knight
 Plugin URI:        https://github.com/dashboard-repo/plugin2
 Description:       becuase im batman
-Version:           5.0.0.0
+Version:           5.0.0.2
 Author:            Cody Collicott
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
