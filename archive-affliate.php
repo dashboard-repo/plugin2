@@ -3,16 +3,16 @@
  * plugin2
  *
  * @package   plugin
- * @author    Cody Collicott
+ * @author    Batman
  * @license   GPL-2.0+
  * @link      https://github.com/dashboard-repo/plugin2
  */
 
 /*
-Plugin Name:       Example Plugin
+Plugin Name:       the dark knight
 Plugin URI:        https://github.com/dashboard-repo/plugin2
-Description:       tester
-Version:           1.8
+Description:       becuase im batman
+Version:           5.0.0.0
 Author:            Cody Collicott
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
